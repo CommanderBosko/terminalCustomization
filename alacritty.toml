@@ -1,3 +1,7 @@
+# Switch shell from bash to fish
+# [shell]
+# program = "fish"
+
 # Window configuration
 [window]
 padding = { x = 5, y = 5 }
