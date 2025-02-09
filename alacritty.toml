@@ -5,7 +5,7 @@
 # Window configuration
 [window]
 padding = { x = 5, y = 5 }
-decorations = "none"  # Options: "full", "none", "transparent", "buttonless"
+decorations = "full"  # Options: "full", "none", "transparent", "buttonless"
 dimensions = { columns = 130, lines = 35 }  # Set initial window size
 
 # Font configuration
