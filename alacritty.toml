@@ -1,5 +1,5 @@
 # Switch shell from bash to fish
-# [shell]
+# [terminal.shell]
 # program = "fish"
 
 # Window configuration
